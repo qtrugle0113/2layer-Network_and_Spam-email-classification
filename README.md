@@ -7,7 +7,7 @@
 **Full graph:**
 ![Screen Shot 2023-01-04 at 8 12 21 PM](https://user-images.githubusercontent.com/86500497/210544548-10c105ca-86f0-49c7-b111-38c3df35560d.png)
 **Backward propagation(for single example):**
-![Screen Shot 2023-01-04 at 8 22 43 PM](https://user-images.githubusercontent.com/86500497/210545017-06cbaf75-2e64-459d-956e-beed0db93831.png)
+![Screen Shot 2023-01-04 at 8 22 55 PM](https://user-images.githubusercontent.com/86500497/210545748-8373d50c-60d5-449d-b07a-cf5fc7376c24.png)
 
 **Final result:**
 ![Screen Shot 2023-01-04 at 8 25 11 PM](https://user-images.githubusercontent.com/86500497/210545110-12bdb762-87b3-4a43-b708-e4582a14e820.png)
